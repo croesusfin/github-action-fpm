@@ -1,7 +1,7 @@
 FROM ruby:2-alpine
-LABEL "maintainer"="bpicode"
+LABEL "maintainer"="croesusfin"
 
-LABEL "com.github.actions.name"="github-action-fpm"
+LABEL "com.github.actions.name"="action-fpm"
 LABEL "com.github.actions.description"="Build packages for multiple platforms using github.com/jordansissel/fpm"
 LABEL "com.github.actions.icon"="package"
 LABEL "com.github.actions.color"="green"
